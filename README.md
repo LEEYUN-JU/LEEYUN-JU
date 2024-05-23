@@ -32,5 +32,11 @@
   <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=opengl&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=opencv&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=eclipseide&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/MFC-92a8d1?style=flat&logoColor=white&logoSize=500&link=https://blog.naver.com/eyunju2"/></a>&nbsp 
+  <img width=80 src="https://img.shields.io/badge/MFC-92a8d1?style=flat&logoColor=white&logoSize=500"/></a>&nbsp 
+</p>
+
+<h3 align="center"> 💌 Contact 💌 </h3>
+<p align="center">
+  <a href="https://github.com/LEEYUN-JU"><img src="https://img.shields.io/badge/MFC-92a8d1?style=flat&logo=github">&nbsp
+  </a>
 </p>
