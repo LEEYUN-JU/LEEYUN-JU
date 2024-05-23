@@ -5,7 +5,6 @@
 <br>
 
 <h3 align="center">🕹 SKILLS 🕹</h3>
-<h4 align="center">What can i do?</h4>
 <p align="center">
   <img width=80 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=C&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
