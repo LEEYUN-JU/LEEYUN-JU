@@ -42,17 +42,9 @@
 
 <h3 align="center"></h3>
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=false&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=false&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&include_all_commits=true"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=false&theme=transparent&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&include_all_commits=true"/>
-  </picture>
+  
+  ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEYUN-JU&show_icons=false&theme=radical&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF)
+  
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
@@ -63,9 +55,4 @@
 
 <br>
 
-<h3 align="center"></h3>
-<div align="center">
-  
-  ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEYUN-JU&show_icons=false&theme=radical&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF)
-  
-</div>
+
