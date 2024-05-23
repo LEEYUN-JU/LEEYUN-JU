@@ -38,11 +38,10 @@
 <h3 align="center"> 💌 Contact 💌 </h3>
 <p align="center">
   <a href="https://github.com/LEEYUN-JU"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">&nbsp
-  <a href="https://blog.naver.com/eyunju2"><img src="https://img.shields.io/badge/Naver%Blog-181717?style=flat&logo=">&nbsp
+  <a href="https://blog.naver.com/eyunju2">
+    <img src="https://img.shields.io/badge/Naver%20Blog-181717?style=flat" alt="Naver Blog" style="vertical-align: middle;">
+    <img src="https://blog.naver.com/favicon.ico" alt="Naver Logo" style="height: 20px;">
   </a>
 </p>
 
-<a href="https://blog.naver.com/eyunju2">
-    <img src="https://img.shields.io/badge/Naver%20Blog-181717?style=flat" alt="Naver Blog" style="vertical-align: middle;">
-    <img src="https://blog.naver.com/favicon.ico" alt="Naver Logo" style="height: 20px;">
-</a>
+
