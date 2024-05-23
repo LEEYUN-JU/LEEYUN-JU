@@ -44,10 +44,7 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=false//
-      &bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1
-      &theme=transparent&title_color=FFFFFF
-      &text_color=FFFFFF&hide_rank=true&include_all_commits=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=false//&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_rank=true&include_all_commits=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
