@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,b8dbd3,1,f7e7b4,2,68c4af,5,96ead7&height=300&section=header&text=Welcome%20to%20-nl-Allie%27s%20Github!&fontSize=50&animation=twinkling&fontColor=f2f6c3&fontAlignY=30&fontAlignY=50&fontAlign=80&&fontAlign=77" />
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,b8dbd3,1,f7e7b4,2,68c4af,5,96ead7&height=300&section=header&text=Welcome%20to%20-nl-Allie%27s%20Github!&fontSize=50&animation=twinkling&fontColor=f2f6c3&fontAlignY=30&fontAlignY=50&fontAlign=80&&fontAlign=77" />
+</div>
 
 <h3 align="center">🕹 SKILLS 🕹</h3>
 <h4 align="center">What can i do?</h4>
@@ -35,11 +37,14 @@
   <img width=80 src="https://img.shields.io/badge/MFC-92a8d1?style=flat&logoColor=white&logoSize=500"/></a>&nbsp 
 </p>
 
-<h3 align="center"> 💌 Contact 💌 </h3>
-<p align="center">
-  <a href="https://github.com/LEEYUN-JU"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"></a>
-  <a href="https://blog.naver.com/eyunju2"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat" alt="N" style="vertical-align: middle;"></a>
-  <a href="eyunju4928@gmail.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=flat" alt="N" style="vertical-align: middle;"></a>
-</p>
-
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://github.com/LEEYUN-JU">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">&nbsp
+  </a>
+  <a href="eyunju4928@gmail.com">
+    <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
 
