@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/LEEYUN-JU/LEEYUN-JU/assets/55966445/df2ba4d0-2ced-41e9-a763-fbcddd58f44c)<div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:92a8d1,100:f7cac9&section=footer&text=Welcome%20to%20-nl-Allie%27s%20Github!&fontSize=50&animation=twinkling&fontColor=fcefee&fontAlignY=70&fontAlignY=90&fontAlign=80&&fontAlign=77&strokeWidth=2&stroke=fbe9e9" />
 </div>
 
@@ -58,9 +58,9 @@
 <br>
 
 <h3 align="center">📢 Languages 📢</h3>
-<h4 align="center">🏳</h4>  
-
-
+<h4 align="center"></h4>  
+[
+](https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000)
 <br>
 
 
