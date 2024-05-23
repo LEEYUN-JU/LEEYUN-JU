@@ -44,14 +44,14 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=92a8d1"
+      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=30,92a8d1,abb1cf,c5b9cd,dec2cb,f7cac9"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=92a8d1"
+      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=30,92a8d1,abb1cf,c5b9cd,dec2cb,f7cac9"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&theme=transparent&title_color=92a8d1&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&theme=transparent&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=30,92a8d1,abb1cf,c5b9cd,dec2cb,f7cac9" />
   </picture>
 </div>
 
