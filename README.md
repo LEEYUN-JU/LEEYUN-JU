@@ -37,9 +37,8 @@
 
 <h3 align="center"> 💌 Contact 💌 </h3>
 <p align="center">
-  <a href="https://github.com/LEEYUN-JU"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">&nbsp
-  <a href="https://blog.naver.com/eyunju2"><img src="https://img.shields.io/badge/Blog%20Blog-03C75A?style=flat" alt="N" style="vertical-align: middle;">
-  </a>
+  <a href="https://github.com/LEEYUN-JU"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"></a>
+  <a href="https://blog.naver.com/eyunju2"><img src="https://img.shields.io/badge/Blog%20Blog-03C75A?style=flat" alt="N" style="vertical-align: middle;"></a>
 </p>
 
 
