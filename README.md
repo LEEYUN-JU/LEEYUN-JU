@@ -50,7 +50,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://github.com/LEEYUN-JU"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"></a>
+  <a href="https://github.com/LEEYUN-JU"><img witdh=50 src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"></a>
   <a href="eyunju4928@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
