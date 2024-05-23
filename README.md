@@ -27,4 +27,10 @@
   <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=linux&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=ubuntu&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=ros&logoColor=white&logoSize=500"/></a>&nbsp 
+  <br>
+  <img width=80 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=tensorflow&logoColor=white"/></a>&nbsp 
+  <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=opengl&logoColor=white"/></a>&nbsp 
+  <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=opencv&logoColor=white"/></a>&nbsp 
+  <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=eclipseide&logoColor=white"/></a>&nbsp 
+  <img width=80 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=Java&logoColor=white&logoSize=500"/></a>&nbsp 
 </p>
