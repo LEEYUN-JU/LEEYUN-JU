@@ -39,6 +39,7 @@
 <p align="center">
   <a href="https://github.com/LEEYUN-JU"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"></a>
   <a href="https://blog.naver.com/eyunju2"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat" alt="N" style="vertical-align: middle;"></a>
+  <a href="eyunju4928@gmail.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=flat" alt="N" style="vertical-align: middle;"></a>
 </p>
 
 
