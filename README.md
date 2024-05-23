@@ -46,17 +46,17 @@
  ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEYUN-JU&show_icons=false&theme=radical&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF)
   
 </div>
-
+-->
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://github.com/LEEYUN-JU"><img witdh=100 src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
   <a href="eyunju4928@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://blog.naver.com/eyunju2"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  #<a href="https://blog.naver.com/eyunju2"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br>
--->
+
 
 <h3 align="center">📢 Languages 📢</h3>
 <h4 align="center">
