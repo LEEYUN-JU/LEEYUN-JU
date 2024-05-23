@@ -40,7 +40,12 @@
 
 <br>
 
-![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&theme=radical)
+<h3 align="center"></h3>
+<div align="center">
+  ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&theme=radical)
+</div>
+
+
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
