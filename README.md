@@ -59,12 +59,11 @@
 
 <h3 align="center">📢 Languages 📢</h3>
 <h4 align="center">
-  <img src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000"> ㅎㅎ
-  <img src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000">  
-  <img src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000">
-  <img src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000"> ⭐⭐⭐⭐⭐ <br>
+  <img src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000"> ⭐⭐⭐⭐⭐ <br>
+  <img src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000"> ⭐⭐⭐⭐⭐ <br>
+  <img src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000"> ⭐⭐⭐⭐⭐ <br>
 </h4>  
 
 <br>
-
 
