@@ -22,3 +22,5 @@
   <img src="https://img.shields.io/badge/-abb1cf?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-92a8d1?style=flat&logo=keras&logoColor=white&logoSize=50"/></a>&nbsp 
 </p>
+
+<img src="https://img.shields.io/badge/-92a8d1?style=flat&logo=keras&logoColor=white&logoSize=500"/></a>&nbsp 
