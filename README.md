@@ -45,7 +45,7 @@
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1"
-    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true" />
 </picture>
