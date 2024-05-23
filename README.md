@@ -58,9 +58,11 @@
 <br>
 
 <h3 align="center">📢 Languages 📢</h3>
-<h4 align="center"></h4>  
-[
-](https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000)
+<h4 align="center">
+  <img src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000">
+  
+</h4>  
+
 <br>
 
 
