@@ -51,7 +51,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=false&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&include_all_commits=true"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=AllieAAA&show_icons=false&theme=transparent&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&include_all_commits=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AllieA&show_icons=false&theme=transparent&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&include_all_commits=true"/>
   </picture>
 </div>
 
