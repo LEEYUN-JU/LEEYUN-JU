@@ -20,9 +20,5 @@
   <img src="https://img.shields.io/badge/-dec2cb?style=flat-square&logo=spyderide&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-c5b9cd?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-abb1cf?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-92a8d1?style=flat-square&logo=keras&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-92a8d1?style=flat&logo=keras&logoColor=white&logoSize=50)"/></a>&nbsp 
 </p>
-
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/-f8d1d0?style=flat-square&logo=C&logoColor=white"/>
-</div>
