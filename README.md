@@ -3,7 +3,7 @@
 <h3 align="center">🕹 SKILLS 🕹</h3>
 <h4 align="center">What can i do?</h4>
 
-<p align="center">
+<p align="center" width=100>
   <img src="https://img.shields.io/badge/-f8d1d0?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-dec2cb?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-c5b9cd?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/-abb1cf?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-92a8d1?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/-f8d1d0?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-dec2cb?style=flat-square&logo=spyderide&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-c5b9cd?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
-  <img width=100 src="https://img.shields.io/badge/-abb1cf?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
-  <img width=100 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=keras&logoColor=white&logoSize=500"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-c5b9cd?style=plastic&logo=jupyter&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-abb1cf?style=for-the-badge&logo=pytorch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-92a8d1?style=social&logo=keras&logoColor=white&logoSize=500"/></a>&nbsp 
 </p>
