@@ -43,13 +43,18 @@
 <h3 align="center"></h3>
 <div align="center">
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1"
-    
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true" />
-</picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true" />
+  </picture>
 </div>
+
 
 
 
