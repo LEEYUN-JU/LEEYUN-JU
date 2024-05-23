@@ -44,14 +44,14 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_rank=true&show_icons=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_rank=true&show_icons=false&include_all_commits=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_rank=true&show_icons=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_rank=true&show_icons=false&include_all_commits=true"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&theme=transparent&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&hide_rank=true&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Allie&show_icons=true&theme=transparent&bg_color=30,f7cac9,dec2cb,c5b9cd,abb1cf,92a8d1&title_color=FFFFFF&text_color=FFFFFF&hide_rank=true&show_icons=false&include_all_commits=true" />
   </picture>
 </div>
 
