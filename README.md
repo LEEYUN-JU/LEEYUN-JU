@@ -2,6 +2,7 @@
 <div align="center">
 • Developing AI-powered voice chatbot applications using STT, LLM, and TTS <br>
 
+
 • Experience building C++ robot simulators with OpenGL <br>
 
 • Familiar with Raspberry Pi and hardware-integrated programming <br>
