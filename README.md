@@ -1,6 +1,10 @@
+<h3 align="center">🌊 About Me 🌊</h3>
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:92a8d1,100:f7cac9&section=footer&text=Welcome%20to%20-nl-Allie%27s%20Github!&fontSize=50&animation=twinkling&fontColor=FFFFFF&fontAlignY=70&fontAlignY=90&fontAlign=80&&fontAlign=77&strokeWidth=1&stroke=fbe9e9" />
-</div>
+
+💻 Software Engineer <br>
+🤖 AI Enthusiast <br>
+🌐 Web Developer <br>
+🏔️ Mountain Hiker
 
 <br>
 
