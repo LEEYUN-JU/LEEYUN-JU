@@ -70,8 +70,8 @@
 
 <h3 align="center">📝 Portfolio 📝</h3>
 <h4 align="center">
-  <a href="https://github.com/LEEYUN-JU/Portfolio/tree/main/Introduce_html_ver 🌊 Responsive HTML Introduction Page"
-</a>
+  <img src="https://img.shields.io/badge/Live_Demo-92a8d1?style=for-the-badge&logo=githubpages&logoColor=White>
+  <a href="https://github.com/LEEYUN-JU/Portfolio/tree/main/Introduce_html_ver 🌊 Responsive HTML Introduction Page"></a>
 </h4>  
 
 <br>
