@@ -1,10 +1,14 @@
 <h3 align="center">🌊 About Me 🌊</h3>
 <div align="center">
+🌊 About Me
 
-💻 Software Engineer <br>
-🤖 AI Enthusiast <br>
-🌐 Web Developer <br>
-🏔️ Mountain Hiker
+• Developing AI-powered voice chatbot applications using STT, LLM, and TTS
+
+• Experience building C++ robot simulators with OpenGL
+
+• Familiar with Raspberry Pi and hardware-integrated programming
+
+• Interested in AI applications, robotics, and web development
 
 <br>
 
