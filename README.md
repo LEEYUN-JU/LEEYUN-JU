@@ -18,7 +18,7 @@
   <img width=80 height=70 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=androidstudio&logoColor=white"/></a>&nbsp 
   <img width=80 height=70 src="https://img.shields.io/badge/VS-92a8d1?style=flat&logo=visualstudio&logoColor=white"/></a>&nbsp 
   <br>
-  <img width=80 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/VScode-f8d1d0?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=spyderide&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=jupyter&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=pytorch&logoColor=white"/></a>&nbsp 
