@@ -70,7 +70,7 @@
 
 <h3 align="center">📝 Portfolio 📝</h3>
 <h4 align="center">
-  <a href="https://leeyun-ju.github.io/Portfolio/Introduce_html_ver/self_intro_wave_dot_v2.html"><img width=100 src="https://img.shields.io/badge/Live_Demo-92a8d1?style=for-the-badge&logo=githubpages&logoColor=White"></a>
+  <a href="https://leeyun-ju.github.io/Portfolio/Introduce_html_ver/self_intro_wave_dot_v2.html"><img width=100 src="https://img.shields.io/badge/OCEAN-5dade2?style=plastic&logoColor=white"></a>
 </h4>  
 
 <br>
