@@ -10,7 +10,7 @@
   <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/C%23-b39ac0?style=flat&logo=csharp&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=dotnet&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=windows10&logoColor=white"/></a>&nbsp 
+  <img width=80 src="https://img.shields.io/badge/Windows-92a8d1?style=flat&logo=windows&logoColor=white"/></a>&nbsp 
   <br>
   <img width=80 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=mysql&logoColor=white"/></a>&nbsp 
