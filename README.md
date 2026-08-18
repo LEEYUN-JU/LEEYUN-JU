@@ -1,6 +1,6 @@
 <h3 align="center">🌊 About Me 🌊</h3>
 <div align="center">
-• Developing AI-powered voice chatbot applications using STT, LLM, and TTS
+• Developing AI-powered voice chatbot applications using STT, LLM, and TTS <br>
   
 • Experience building C++ robot simulators with OpenGL
 
