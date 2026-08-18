@@ -18,23 +18,23 @@
   <img width=80 height=70 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=androidstudio&logoColor=white"/></a>&nbsp 
   <img width=80 height=70 src="https://img.shields.io/badge/VS-92a8d1?style=flat&logo=visualstudio&logoColor=white"/></a>&nbsp 
   <br>
-  <img width=80 height=70 src="https://img.shields.io/badge/VScode-f8d1d0?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=spyderide&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=jupyter&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=pytorch&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=keras&logoColor=white&logoSize=500"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/VScode-f8d1d0?style=flat&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=spyderide&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=jupyter&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=pytorch&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=keras&logoColor=white&logoSize=500"/></a>&nbsp 
   <br>
-  <img width=80 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=r&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=arduino&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=linux&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=ubuntu&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=ros&logoColor=white&logoSize=500"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=r&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=arduino&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=linux&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=ubuntu&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=ros&logoColor=white&logoSize=500"/></a>&nbsp 
   <br>
-  <img width=80 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=tensorflow&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=opengl&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=opencv&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=eclipseide&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/MFC-92a8d1?style=flat&logoColor=white&logoSize=500"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=tensorflow&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=opengl&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=opencv&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=eclipseide&logoColor=white"/></a>&nbsp 
+  <img width=80 height=70 src="https://img.shields.io/badge/MFC-92a8d1?style=flat&logoColor=white&logoSize=500"/></a>&nbsp 
 </p>
 
 <br>
