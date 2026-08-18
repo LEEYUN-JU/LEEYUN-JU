@@ -8,7 +8,7 @@
 <p align="center">
   <img width=80 src="https://img.shields.io/badge/-f8d1d0?style=flat&logo=C&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-dec2cb?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img width=80 src="https://img.shields.io/badge/-c5b9cd?style=flat&logo=csharp&logoColor=white"/></a>&nbsp 
+  <img width=80 src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-abb1cf?style=flat&logo=dotnet&logoColor=white"/></a>&nbsp 
   <img width=80 src="https://img.shields.io/badge/-92a8d1?style=flat&logo=windows10&logoColor=white"/></a>&nbsp 
   <br>
