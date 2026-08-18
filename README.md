@@ -70,7 +70,7 @@
 
 <h3 align="center">📝 Portfolio 📝</h3>
 <h4 align="center">
-  <a href="https://github.com/LEEYUN-JU/Project🌊 Ocean Inspired Web Page
+  <a href="https://github.com/LEEYUN-JU/Portfolio/tree/main/Introduce_html_ver 🌊 Responsive HTML Introduction Page"
 </a>
 </h4>  
 
